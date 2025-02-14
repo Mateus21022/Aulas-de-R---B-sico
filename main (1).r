@@ -1,4 +1,3 @@
-#Mateus de Jesus Rocha e Eduardo Sousa Passos
 
 #Questão 1.
 x <- 15:50 
